@@ -1,0 +1,15 @@
+body {
+    background-image: url("source/ar.jpg"); 
+}
+h1 {
+    background: #E1BB0A;
+    font-family: 'Merriweather', serif;    
+    color: #111312
+    
+}
+.panel-body{
+    background-image: url("source/ma.jpg");    
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
